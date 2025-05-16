@@ -1,0 +1,61 @@
+¿Qué es un plan? Es una lista de pasos con detalles de tiempo y recursos, utilizados para lograr un objetivo de hacer algo.
+¿Qué significa “planus”? Significa “plano”, del latín, origen de la palabra plan.
+¿Qué es la planeación? Es una etapa del proceso administrativo donde se determinan rasgos fundamentales como misión y objetivos.
+¿Qué es una estrategia? Es un procedimiento para tomar decisiones en una determinada circunstancia.
+¿Qué es la planeación estratégica? Es el proceso para determinar objetivos y planificar cómo alcanzarlos.
+¿De dónde proviene el término “estrategia”? Del griego “strategos”, que significa general del ejército.
+¿Cuándo se comenzó a usar la estrategia en el ámbito organizacional? Después de la Segunda Guerra Mundial.
+¿Qué papel tuvo la Harvard Business School en la planeación estratégica? Popularizó su uso y la convirtió en disciplina académica.
+¿Por qué es importante la planeación estratégica? Porque brinda dirección clara, permite tomar decisiones acertadas y optimiza la comunicación.
+¿Qué tipos de planeación existen? Estratégica, táctica, operativa y normativa.
+¿Qué es la planeación estratégica(tipos)? Un plan integral que contempla misión, visión, objetivos a largo plazo y estructura de la empresa.
+¿Qué es la planeación táctica? Define objetivos específicos a partir de las metas generales, ejecutada por áreas responsables.
+¿Qué es la planeación operativa? Es una serie de acciones básicas para el desempeño en corto o mediano plazo.
+¿Qué es la planeación normativa? Serie de reglas y normas que la gerencia establece para alcanzar objetivos.
+¿Qué es la misión? Es la razón de ser de una organización, su propósito y valor aportado.
+¿Qué es la visión? Es lo que quiere lograr la empresa en el futuro, su estado deseado.
+¿Qué son los objetivos? Son los resultados o situaciones que se pretende alcanzar.
+¿Qué son los valores? Principios éticos que guían el comportamiento organizacional.
+¿Qué son las metas? Son específicas, concretas y deben ser SMART: específicas, medibles, alcanzables, relevantes y con tiempo límite.
+¿Qué es el análisis del entorno? Estudio de factores internos (fortalezas y debilidades) y externos (oportunidades y amenazas).
+¿Qué son los objetivos estratégicos? Metas a largo plazo alineadas con misión y visión.
+¿Qué son las estrategias? Planes de acción para alcanzar los objetivos, considerando recursos.
+¿Qué son los planes de acción? Actividades específicas, responsables y plazos para implementar estrategias.
+¿Qué es la ventaja competitiva? Aspectos que hacen sobresalir una marca o producto ante la competencia.
+¿Qué es una ventaja competitiva interna? Basada en precios y gestión eficiente.
+¿Qué es una ventaja competitiva externa? Basada en diferenciadores como calidad o promociones.
+¿Para qué sirve una ventaja competitiva? Para construir la propuesta de valor y destacar ante el mercado.
+¿Cuáles son los tipos de ventaja competitiva según Michael Porter? Liderazgo en costos, diferenciación de producto, y segmentación de mercado.
+¿Qué es el liderazgo en costos? Ventaja por costos inferiores en productos o servicios comparables.
+¿Qué es la diferenciación de producto? Ofrecer algo único o percibido como superior por los clientes.
+¿Qué es la segmentación de mercado? Estrategia para enfocarse en mercados específicos en lugar de todo el público.
+¿Qué es el valor para el cliente? Percepción del producto como valioso, ya sea por calidad, exclusividad o experiencia.
+¿Qué es la eficiencia en costos? Reducir costos sin sacrificar calidad, usando recursos eficientemente.
+¿Qué es la innovación? Introducir nuevos productos, servicios o procesos.
+¿Qué es la reputación y marca? Percepción del cliente basada en calidad, confianza y consistencia.
+¿Qué son capacidades internas y recursos? Talento humano, tecnología e infraestructura difícil de replicar.
+¿Qué es el acceso a canales de distribución? Llegar eficazmente a los clientes por diversos medios.
+¿Qué es FODA? Técnica para identificar Fortalezas, Oportunidades, Debilidades y Amenazas.
+¿Cómo se organiza la matriz FODA? Fortalezas y debilidades arriba (interno), oportunidades y amenazas abajo (externo); positivo a la izquierda, negativo a la derecha.
+¿Qué son las fortalezas? Iniciativas internas que funcionan bien.
+¿Qué son las debilidades? Iniciativas internas que no funcionan bien.
+¿Qué son las oportunidades? Factores externos que fortalecen la posición competitiva.
+¿Qué son las amenazas? Factores externos que pueden afectar negativamente.
+¿Cuáles son los beneficios del FODA? Identificar fortalezas, evaluar el mercado, definir estrategias, comunicar, anticipar riesgos y adaptarse.
+¿Cómo se hace un análisis FODA? Crear equipo, identificar fortalezas, debilidades, oportunidades y amenazas, definir estrategias y revisar.
+¿Qué es CAME? Corregir, Afrontar, Mantener y Explotar; respuestas a los hallazgos del FODA.
+¿Para qué sirve CAME? Para desarrollar estrategias a partir del FODA.
+¿Qué son estrategias ofensivas? Aprovechan fortalezas y oportunidades.
+¿Qué son estrategias de supervivencia? Evitan amenazas y corrigen debilidades.
+¿Qué son estrategias defensivas? Usan fortalezas para defenderse de amenazas.
+¿Qué son estrategias de reorientación? Corrigen debilidades y aprovechan oportunidades.
+¿Qué es PESTEL? Herramienta para analizar el entorno externo en términos Políticos, Económicos, Sociales, Tecnológicos, Ecológicos y Legales.
+¿Cuándo se usa un análisis PESTEL? Inicio de proyectos, expansión, cambios, evaluación de riesgos y desarrollo de productos.
+¿Qué se analiza en los factores políticos? Decisiones gubernamentales, estabilidad, políticas fiscales, regulaciones.
+¿Qué se analiza en los factores económicos? Inflación, tipo de cambio, interés, PIB, consumo y desempleo.
+¿Qué se analiza en los factores sociales? Estilo de vida, demografía, redes sociales, roles familiares.
+¿Qué se analiza en los factores tecnológicos? Innovaciones, apps, medios de pago, redes sociales como canales de venta.
+¿Qué se analiza en los factores ecológicos? Regulación ambiental, productos eco-friendly, uso de energía renovable.
+¿Qué se analiza en los factores legales? Normas de etiquetado, licencias, protección al consumidor, leyes sanitarias.
+¿Qué hacer después del análisis PESTEL? Plasmar gráficamente, asignar puntajes, priorizar estrategias.
+¿Qué se debe hacer con el documento PESTEL? Revisarlo y actualizarlo regularmente.
