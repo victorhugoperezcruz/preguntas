@@ -1,35 +1,50 @@
-¿Qué es la contabilidad? Es una disciplina que registra, clasifica, resume e interpreta operaciones financieras para la toma de decisiones económicas.
-¿Qué es la gestión? Es el conjunto de acciones para planificar, organizar, dirigir y controlar recursos con el fin de alcanzar objetivos.
-¿Qué es la contabilidad de gestión? Es el área que provee información relevante a gestores para orientar actividades estratégicas y controlar operaciones comerciales.
-¿Cuál es un beneficio de una gestión contable eficiente? Mejora en la toma de decisiones, optimización de recursos o cumplimiento normativo.
-¿Qué es un costo en contabilidad? Monto invertido para producir un bien o servicio, recuperable al venderlo.
-¿Qué es un gasto? Salida de recursos que no genera un activo futuro y es necesario para operar.
-¿Cuál es la diferencia entre costo y gasto? Los costos se capitalizan y forman parte del producto; los gastos se consumen en la empresa sin retorno directo.
-¿Ejemplo de costo fijo? Alquiler de un local, salarios administrativos.
-¿Ejemplo de costo variable? Materia prima, energía eléctrica en producción.
-¿Qué son los costos directos? Costos fácilmente identificables con un producto, como materia prima o mano de obra directa.
-¿Qué son los costos indirectos? Costos no asociables directamente a un producto, como luz de la fábrica.
-¿Ejemplo de costo de administración? Sueldos del personal administrativo o papelería.
-¿Ejemplo de costo de distribución? Transporte de productos o publicidad.
-¿Qué es el costo de oportunidad? Beneficio perdido al elegir una opción sobre otra.
-¿Qué es un estado financiero? Informe que muestra la situación económica y resultados de una empresa en un período.
-¿Componentes del balance general? Activos, pasivos y patrimonio.
-¿Qué es el estado de resultados? Informe que detalla ingresos, gastos y utilidad neta en un período.
-¿Fórmula de ingresos netos? Ingresos totales – Costos – Gastos – Impuestos.
-¿Ejemplo de gasto operativo? Sueldos del personal o renta de oficina.
-¿Qué es el estado de flujo de caja? Registro de entradas y salidas de efectivo en un período.
-¿Para qué sirve el cálculo de costos? Para fijar precios, reducir costos y mejorar eficiencia operativa.
-¿Ejemplo de costo de producción? Harina, huevos y mano de obra para hacer un pastel.
-¿Qué es un presupuesto? Proyección financiera de ingresos y gastos para planificar objetivos.
-¿Objetivo de la contabilidad por actividades (ABC)? Asignar costos indirectos con precisión a productos basados en actividades.
-¿Qué es la contabilidad estratégica? Relaciona datos contables con el entorno competitivo para decisiones a largo plazo.
-¿Ejemplo de contabilidad de responsabilidad? Evaluar desempeño por departamentos (ventas, producción).
-¿Qué analiza el costo-beneficio? Si los beneficios de una decisión superan sus costos.
-¿Pasos para un análisis costo-beneficio? Identificar costos/beneficios, asignar valor monetario y calcular valor presente neto.
-¿Dónde se incluye el IVA en los estados financieros? En el grupo de acreedores y deudores, como pasivo.
-¿Por qué es importante la contabilidad de gestión? Apoya decisiones estratégicas, mejora eficiencia y aumenta rentabilidad.
-¿Característica clave de la contabilidad de gestión? Es interna, no obligatoria y se adapta a las necesidades de la empresa.
-¿Qué es la memoria contable? Informe final que resume y ordena la información financiera con gráficos.
-¿Qué permite el análisis financiero? Evaluar indicadores como rentabilidad, liquidez y apalancamiento.
-¿Cómo ayuda la contabilidad de gestión en la fijación de precios? Basa precios en costos y márgenes deseados.
-¿Qué muestra un estado de resultados? Ventas, costos, gastos y utilidad neta en un período.
+¿Qué es un sistema operativo (SO)? Es un conjunto de programas que gestionan el hardware y software de un sistema de cómputo.
+¿Cuáles son las funciones principales de un SO? Administración de procesos, memoria, dispositivos de E/S, archivos, seguridad y comunicación.
+¿Qué diferencia hay entre un SO de propósito general y uno de propósito específico? El de propósito general sirve para múltiples aplicaciones (Windows, Linux), mientras que el específico se diseña para una sola tarea (cajeros automáticos, sistemas embebidos).
+¿Qué relación existe entre el SO, el hardware y el software de aplicación? El SO actúa como intermediario: recibe instrucciones del software de aplicación y las traduce para el hardware.
+¿Cuáles son los principales tipos de sistemas operativos? Monotarea, multitarea, de tiempo compartido, en tiempo real, distribuidos y embebidos.
+¿Qué características distinguen a los sistemas operativos de tiempo real? Responden en un tiempo predecible, con baja latencia y alta confiabilidad.
+¿Cuál fue el primer sistema operativo y en qué década apareció? GM-NAA I/O, creado en los años 50.
+¿Qué es un proceso? Es un programa en ejecución con su código, datos, registros y recursos asignados.
+¿Qué componentes forman parte de un proceso? Código, datos, pila, contador de programa, registros y recursos asignados.
+¿Qué es un hilo y cómo se diferencia de un proceso? Un hilo es la unidad mínima de ejecución dentro de un proceso; varios hilos comparten la memoria del proceso.
+¿Qué ventajas tiene el uso de hilos sobre procesos? Mayor eficiencia, comunicación más rápida y mejor uso de recursos.
+¿Cuál es la diferencia entre multiprogramación y multitarea? Multiprogramación optimiza la CPU ejecutando varios programas; multitarea da la ilusión de ejecutar varias tareas al mismo tiempo para el usuario.
+¿Qué es un planificador de procesos? Es un módulo del SO que decide qué proceso se ejecuta y en qué orden.
+¿Cuáles son las políticas de planificación más comunes? FIFO, SJF, Round Robin, Prioridades y Multinivel.
+¿Qué diferencia hay entre planificación a corto, mediano y largo plazo? Corto plazo: decide qué proceso va a la CPU; Mediano plazo: suspende o reanuda procesos; Largo plazo: controla cuántos procesos entran al sistema.
+¿Qué es la memoria virtual? Es una técnica que simula tener más memoria física usando espacio en disco.
+¿Cuál es la diferencia entre memoria principal y memoria secundaria? La memoria principal (RAM) es rápida y volátil; la secundaria (disco) es más lenta y persistente.
+¿Qué diferencia hay entre paginación y segmentación? Paginación: bloques de tamaño fijo (páginas); Segmentación: bloques de tamaño variable (segmentos).
+¿Qué es un fallo de página? Es cuando un proceso intenta acceder a una página que no está en la RAM y el SO debe traerla desde disco.
+¿Qué técnicas existen para reemplazo de páginas en memoria? FIFO, LRU, Óptimo y NRU.
+¿Cuál es la diferencia entre memoria continua y memoria no continua? En la continua, los procesos ocupan bloques enteros de RAM; en la no continua, se fragmentan en páginas o segmentos.
+¿Qué ventajas ofrece la paginación sobre la segmentación? Evita la fragmentación externa y simplifica la asignación de memoria.
+¿Qué es un sistema de archivos? Es un método para organizar, almacenar y recuperar datos en un dispositivo de almacenamiento.
+¿Qué diferencias hay entre FAT32, NTFS y ext4? FAT32: simple y compatible, pero limitado; NTFS: seguro, con permisos avanzados y archivos grandes; ext4: usado en Linux, eficiente y confiable.
+¿Qué es un inodo en un sistema de archivos? Es una estructura que almacena metadatos de un archivo (tamaño, permisos, ubicación en disco).
+¿Qué funciones principales tiene un sistema de archivos? Organización, acceso, almacenamiento, protección y administración de espacio.
+¿Qué es la fragmentación y cómo afecta al rendimiento del sistema? Es la dispersión de partes de un archivo en distintas áreas del disco, lo que ralentiza el acceso.
+¿Cuál es la diferencia entre archivos secuenciales, directos e indexados? Secuenciales: se leen en orden; Directos: acceso inmediato por posición; Indexados: acceso mediante índices.
+¿Qué es un dispositivo de entrada/salida? Es un periférico que permite comunicación entre la computadora y el exterior (teclado, impresora, disco).
+¿Qué diferencia hay entre E/S programada, E/S con interrupciones y E/S con DMA? Programada: la CPU espera la operación; Con interrupciones: la CPU continúa y se avisa cuando termina; DMA: un controlador transfiere datos sin intervención de la CPU.
+¿Qué es un spooler de impresión y qué función cumple? Es un programa que gestiona trabajos de impresión en cola.
+¿Qué papel cumplen los controladores de dispositivos en un SO? Traducen las órdenes del SO en comandos específicos para el hardware.
+¿Qué mecanismos usa un SO para proteger la información? Autenticación, control de accesos, encriptación y privilegios.
+¿Qué diferencia hay entre autenticación, autorización y auditoría? Autenticación: verificar identidad; Autorización: asignar permisos; Auditoría: registrar actividades.
+¿Qué es un modo kernel y un modo usuario? Modo kernel tiene control total; modo usuario tiene permisos limitados.
+¿Qué técnicas de seguridad usan los SO modernos para prevenir ataques? Firewall, permisos, sandboxing, cifrado y antivirus.
+¿Qué es el control de acceso basado en roles (RBAC)? Es un modelo de seguridad donde los permisos se asignan según el rol del usuario.
+¿Qué son los permisos de archivos en Linux (r, w, x)? r: lectura; w: escritura; x: ejecución.
+¿Qué es la virtualización? Es la creación de entornos virtuales que simulan hardware o sistemas completos.
+¿Qué diferencia hay entre máquina virtual y contenedor? Máquina virtual: simula hardware completo; Contenedor: comparte el mismo kernel y es más ligero.
+¿Qué es un hipervisor y qué tipos existen? Es el software que gestiona máquinas virtuales; Tipo 1: corre directo sobre el hardware; Tipo 2: corre sobre un SO anfitrión.
+¿Qué es un sistema operativo distribuido? Es un SO que coordina varios equipos como si fueran uno solo.
+¿Qué ventajas ofrecen los sistemas distribuidos sobre los centralizados? Escalabilidad, tolerancia a fallos, mayor rendimiento y flexibilidad.
+¿Qué es un deadlock (interbloqueo)? Es una situación donde varios procesos se bloquean esperando recursos que otros poseen.
+¿Cuáles son las condiciones necesarias para que ocurra un deadlock? Espera mutua, no expropiación, exclusión mutua y espera circular.
+¿Qué técnicas existen para prevenir y evitar deadlocks? Prevención, detección y recuperación, y evitar condiciones necesarias.
+¿Qué es la concurrencia? Es la ejecución de varias tareas de manera intercalada.
+¿Qué diferencia hay entre concurrencia y paralelismo? Concurrencia: varias tareas progresan al mismo tiempo; Paralelismo: varias tareas se ejecutan físicamente al mismo tiempo.
+¿Qué es una interrupción y para qué sirve? Es una señal que pausa la CPU para atender un evento externo o interno.
+¿Qué diferencia hay entre interrupciones de hardware y de software? Hardware: generadas por dispositivos externos; Software: generadas por programas.
