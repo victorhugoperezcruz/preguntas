@@ -1,50 +1,25 @@
-¿Qué es un sistema operativo (SO)? Es un conjunto de programas que gestionan el hardware y software de un sistema de cómputo.
-¿Cuáles son las funciones principales de un SO? Administración de procesos, memoria, dispositivos de E/S, archivos, seguridad y comunicación.
-¿Qué diferencia hay entre un SO de propósito general y uno de propósito específico? El de propósito general sirve para múltiples aplicaciones (Windows, Linux), mientras que el específico se diseña para una sola tarea (cajeros automáticos, sistemas embebidos).
-¿Qué relación existe entre el SO, el hardware y el software de aplicación? El SO actúa como intermediario: recibe instrucciones del software de aplicación y las traduce para el hardware.
-¿Cuáles son los principales tipos de sistemas operativos? Monotarea, multitarea, de tiempo compartido, en tiempo real, distribuidos y embebidos.
-¿Qué características distinguen a los sistemas operativos de tiempo real? Responden en un tiempo predecible, con baja latencia y alta confiabilidad.
-¿Cuál fue el primer sistema operativo y en qué década apareció? GM-NAA I/O, creado en los años 50.
-¿Qué es un proceso? Es un programa en ejecución con su código, datos, registros y recursos asignados.
-¿Qué componentes forman parte de un proceso? Código, datos, pila, contador de programa, registros y recursos asignados.
-¿Qué es un hilo y cómo se diferencia de un proceso? Un hilo es la unidad mínima de ejecución dentro de un proceso; varios hilos comparten la memoria del proceso.
-¿Qué ventajas tiene el uso de hilos sobre procesos? Mayor eficiencia, comunicación más rápida y mejor uso de recursos.
-¿Cuál es la diferencia entre multiprogramación y multitarea? Multiprogramación optimiza la CPU ejecutando varios programas; multitarea da la ilusión de ejecutar varias tareas al mismo tiempo para el usuario.
-¿Qué es un planificador de procesos? Es un módulo del SO que decide qué proceso se ejecuta y en qué orden.
-¿Cuáles son las políticas de planificación más comunes? FIFO, SJF, Round Robin, Prioridades y Multinivel.
-¿Qué diferencia hay entre planificación a corto, mediano y largo plazo? Corto plazo: decide qué proceso va a la CPU; Mediano plazo: suspende o reanuda procesos; Largo plazo: controla cuántos procesos entran al sistema.
-¿Qué es la memoria virtual? Es una técnica que simula tener más memoria física usando espacio en disco.
-¿Cuál es la diferencia entre memoria principal y memoria secundaria? La memoria principal (RAM) es rápida y volátil; la secundaria (disco) es más lenta y persistente.
-¿Qué diferencia hay entre paginación y segmentación? Paginación: bloques de tamaño fijo (páginas); Segmentación: bloques de tamaño variable (segmentos).
-¿Qué es un fallo de página? Es cuando un proceso intenta acceder a una página que no está en la RAM y el SO debe traerla desde disco.
-¿Qué técnicas existen para reemplazo de páginas en memoria? FIFO, LRU, Óptimo y NRU.
-¿Cuál es la diferencia entre memoria continua y memoria no continua? En la continua, los procesos ocupan bloques enteros de RAM; en la no continua, se fragmentan en páginas o segmentos.
-¿Qué ventajas ofrece la paginación sobre la segmentación? Evita la fragmentación externa y simplifica la asignación de memoria.
-¿Qué es un sistema de archivos? Es un método para organizar, almacenar y recuperar datos en un dispositivo de almacenamiento.
-¿Qué diferencias hay entre FAT32, NTFS y ext4? FAT32: simple y compatible, pero limitado; NTFS: seguro, con permisos avanzados y archivos grandes; ext4: usado en Linux, eficiente y confiable.
-¿Qué es un inodo en un sistema de archivos? Es una estructura que almacena metadatos de un archivo (tamaño, permisos, ubicación en disco).
-¿Qué funciones principales tiene un sistema de archivos? Organización, acceso, almacenamiento, protección y administración de espacio.
-¿Qué es la fragmentación y cómo afecta al rendimiento del sistema? Es la dispersión de partes de un archivo en distintas áreas del disco, lo que ralentiza el acceso.
-¿Cuál es la diferencia entre archivos secuenciales, directos e indexados? Secuenciales: se leen en orden; Directos: acceso inmediato por posición; Indexados: acceso mediante índices.
-¿Qué es un dispositivo de entrada/salida? Es un periférico que permite comunicación entre la computadora y el exterior (teclado, impresora, disco).
-¿Qué diferencia hay entre E/S programada, E/S con interrupciones y E/S con DMA? Programada: la CPU espera la operación; Con interrupciones: la CPU continúa y se avisa cuando termina; DMA: un controlador transfiere datos sin intervención de la CPU.
-¿Qué es un spooler de impresión y qué función cumple? Es un programa que gestiona trabajos de impresión en cola.
-¿Qué papel cumplen los controladores de dispositivos en un SO? Traducen las órdenes del SO en comandos específicos para el hardware.
-¿Qué mecanismos usa un SO para proteger la información? Autenticación, control de accesos, encriptación y privilegios.
-¿Qué diferencia hay entre autenticación, autorización y auditoría? Autenticación: verificar identidad; Autorización: asignar permisos; Auditoría: registrar actividades.
-¿Qué es un modo kernel y un modo usuario? Modo kernel tiene control total; modo usuario tiene permisos limitados.
-¿Qué técnicas de seguridad usan los SO modernos para prevenir ataques? Firewall, permisos, sandboxing, cifrado y antivirus.
-¿Qué es el control de acceso basado en roles (RBAC)? Es un modelo de seguridad donde los permisos se asignan según el rol del usuario.
-¿Qué son los permisos de archivos en Linux (r, w, x)? r: lectura; w: escritura; x: ejecución.
-¿Qué es la virtualización? Es la creación de entornos virtuales que simulan hardware o sistemas completos.
-¿Qué diferencia hay entre máquina virtual y contenedor? Máquina virtual: simula hardware completo; Contenedor: comparte el mismo kernel y es más ligero.
-¿Qué es un hipervisor y qué tipos existen? Es el software que gestiona máquinas virtuales; Tipo 1: corre directo sobre el hardware; Tipo 2: corre sobre un SO anfitrión.
-¿Qué es un sistema operativo distribuido? Es un SO que coordina varios equipos como si fueran uno solo.
-¿Qué ventajas ofrecen los sistemas distribuidos sobre los centralizados? Escalabilidad, tolerancia a fallos, mayor rendimiento y flexibilidad.
-¿Qué es un deadlock (interbloqueo)? Es una situación donde varios procesos se bloquean esperando recursos que otros poseen.
-¿Cuáles son las condiciones necesarias para que ocurra un deadlock? Espera mutua, no expropiación, exclusión mutua y espera circular.
-¿Qué técnicas existen para prevenir y evitar deadlocks? Prevención, detección y recuperación, y evitar condiciones necesarias.
-¿Qué es la concurrencia? Es la ejecución de varias tareas de manera intercalada.
-¿Qué diferencia hay entre concurrencia y paralelismo? Concurrencia: varias tareas progresan al mismo tiempo; Paralelismo: varias tareas se ejecutan físicamente al mismo tiempo.
-¿Qué es una interrupción y para qué sirve? Es una señal que pausa la CPU para atender un evento externo o interno.
-¿Qué diferencia hay entre interrupciones de hardware y de software? Hardware: generadas por dispositivos externos; Software: generadas por programas.
+¿Cuáles son las fases del ciclo de vida de un proyecto mencionadas en el primer gráfico? Inicio del Proyecto, Organización y Preparación, Ejecución del Trabajo y Cierre del Proyecto.
+Según el "Gráfico 2-1", ¿en qué fase del proyecto el Nivel de Costo y Dotación de Personal es más alto? En la fase de Ejecución del Trabajo.
+¿Cómo se comporta el "Costo de los cambios" a lo largo de la duración del proyecto? El costo de los cambios aumenta a medida que avanza el proyecto.
+¿Cómo se comporta la "Influencia de los interesados, riesgo e incertidumbre" a lo largo de la duración del proyecto? Disminuye a medida que avanza el proyecto.
+¿Qué proceso se encarga de desarrollar un documento que autoriza formalmente la existencia de un proyecto? Desarrollar el Acta de Constitución del Proyecto.
+Nombra tres entradas para "Desarrollar el Acta de Constitución del Proyecto". Documentos de negocio, Acuerdos, Factores ambientales de la empresa, Activos de los procesos de la organización.
+¿Cuáles son las dos salidas del proceso "Desarrollar el Acta de Constitución del Proyecto"? Acta de constitución del proyecto y Registro de supuestos.
+Menciona tres herramientas y técnicas para "Desarrollar el Acta de Constitución del Proyecto". Juicio de expertos, Recopilación de datos (tormenta de ideas, grupos focales, entrevistas), Habilidades interpersonales y de equipo (gestión de conflictos, facilitación, gestión de reuniones) y Reuniones.
+¿Qué es el "Caso de negocio" y para qué se utiliza? Es un documento que proporciona la información necesaria desde una perspectiva de negocio para determinar si los resultados esperados del proyecto justifican la inversión requerida. Se utiliza para crear el acta de constitución del proyecto.
+¿Qué documento describe el modo y el momento en que se entregarán los beneficios del proyecto? El Plan de gestión de beneficios.
+Nombra tres ejemplos de "Factores Ambientales de la Empresa" que pueden influir en el proyecto. Estándares gubernamentales o de la industria, requisitos legales, condiciones del mercado, cultura de la organización, marco de gobernanza, expectativas de los interesados.
+¿Qué es el "Juicio de Expertos"? Es el juicio que se brinda sobre la base de la experiencia en un área de aplicación, área de conocimiento, disciplina o industria, apropiado para la actividad que se está ejecutando.
+¿Para qué se utiliza la "Gestión de conflictos" en el desarrollo del acta de constitución? Para ayudar a alinear a los interesados con respecto a los objetivos, criterios de éxito, requisitos de alto nivel y otros elementos del acta.
+¿Qué es el "Acta de Constitución del Proyecto"? Es un documento emitido por el iniciador o patrocinador del proyecto que autoriza formalmente su existencia y confiere al director del proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto.
+Menciona 4 elementos que documenta el Acta de Constitución del Proyecto. Propósito del proyecto, objetivos medibles, requisitos de alto nivel, descripción de alto nivel del proyecto, riesgo general del proyecto, resumen del cronograma de hitos, recursos financieros preaprobados, lista de interesados clave, etc.
+¿Para qué se utiliza el "Registro de Supuestos"? Se utiliza para registrar todos los supuestos y restricciones a lo largo del ciclo de vida del proyecto.
+¿Cuál es el propósito del proceso "Identificar a los Interesados"? Es el proceso de identificar periódicamente a los interesados del proyecto, así como de analizar y documentar información relevante relativa a sus intereses, participación, interdependencias, influencia y posible impacto en el éxito del proyecto.
+Nombra tres entradas para el proceso "Identificar a los Interesados". Acta de constitución del proyecto, Documentos de negocio, Plan para la dirección del proyecto, Documentos del proyecto, Acuerdos, Factores ambientales de la empresa y Activos de los procesos de la organización.
+¿Cuáles son las salidas del proceso "Identificar a los Interesados"? Registro de interesados, Solicitudes de cambio, Actualizaciones al plan para la dirección del proyecto y Actualizaciones a los documentos del proyecto.
+¿Qué es el "Mapeo/representación de interesados"? Es un método para categorizar a los interesados que ayuda al equipo a construir relaciones con ellos.
+Describe la "Matriz de poder/interés". Es una técnica que agrupa a los interesados según su nivel de autoridad (poder) y su nivel de inquietud acerca de los resultados del proyecto (interés).
+¿Qué tres elementos evalúa el "Modelo de prominencia" para describir clases de interesados? Poder, urgencia y legitimidad.
+¿Cómo clasifica la "Dirección de la influencia" a los interesados? Ascendente, descendente, hacia afuera o lateral.
+¿Qué información de identificación contiene el "Registro de Interesados"? Nombre, puesto en la organización, ubicación, datos de contacto y rol en el proyecto.
+¿Qué documentos del proyecto se pueden actualizar como resultado de identificar a los interesados? Registro de supuestos, Registro de incidentes y Registro de riesgos.
