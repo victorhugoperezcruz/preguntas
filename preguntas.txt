@@ -1,25 +1,25 @@
-¿Cuáles son las fases del ciclo de vida de un proyecto mencionadas en el primer gráfico? Inicio del Proyecto, Organización y Preparación, Ejecución del Trabajo y Cierre del Proyecto.
-Según el "Gráfico 2-1", ¿en qué fase del proyecto el Nivel de Costo y Dotación de Personal es más alto? En la fase de Ejecución del Trabajo.
-¿Cómo se comporta el "Costo de los cambios" a lo largo de la duración del proyecto? El costo de los cambios aumenta a medida que avanza el proyecto.
-¿Cómo se comporta la "Influencia de los interesados, riesgo e incertidumbre" a lo largo de la duración del proyecto? Disminuye a medida que avanza el proyecto.
-¿Qué proceso se encarga de desarrollar un documento que autoriza formalmente la existencia de un proyecto? Desarrollar el Acta de Constitución del Proyecto.
-Nombra tres entradas para "Desarrollar el Acta de Constitución del Proyecto". Documentos de negocio, Acuerdos, Factores ambientales de la empresa, Activos de los procesos de la organización.
-¿Cuáles son las dos salidas del proceso "Desarrollar el Acta de Constitución del Proyecto"? Acta de constitución del proyecto y Registro de supuestos.
-Menciona tres herramientas y técnicas para "Desarrollar el Acta de Constitución del Proyecto". Juicio de expertos, Recopilación de datos (tormenta de ideas, grupos focales, entrevistas), Habilidades interpersonales y de equipo (gestión de conflictos, facilitación, gestión de reuniones) y Reuniones.
-¿Qué es el "Caso de negocio" y para qué se utiliza? Es un documento que proporciona la información necesaria desde una perspectiva de negocio para determinar si los resultados esperados del proyecto justifican la inversión requerida. Se utiliza para crear el acta de constitución del proyecto.
-¿Qué documento describe el modo y el momento en que se entregarán los beneficios del proyecto? El Plan de gestión de beneficios.
-Nombra tres ejemplos de "Factores Ambientales de la Empresa" que pueden influir en el proyecto. Estándares gubernamentales o de la industria, requisitos legales, condiciones del mercado, cultura de la organización, marco de gobernanza, expectativas de los interesados.
-¿Qué es el "Juicio de Expertos"? Es el juicio que se brinda sobre la base de la experiencia en un área de aplicación, área de conocimiento, disciplina o industria, apropiado para la actividad que se está ejecutando.
-¿Para qué se utiliza la "Gestión de conflictos" en el desarrollo del acta de constitución? Para ayudar a alinear a los interesados con respecto a los objetivos, criterios de éxito, requisitos de alto nivel y otros elementos del acta.
-¿Qué es el "Acta de Constitución del Proyecto"? Es un documento emitido por el iniciador o patrocinador del proyecto que autoriza formalmente su existencia y confiere al director del proyecto la autoridad para aplicar los recursos de la organización a las actividades del proyecto.
-Menciona 4 elementos que documenta el Acta de Constitución del Proyecto. Propósito del proyecto, objetivos medibles, requisitos de alto nivel, descripción de alto nivel del proyecto, riesgo general del proyecto, resumen del cronograma de hitos, recursos financieros preaprobados, lista de interesados clave, etc.
-¿Para qué se utiliza el "Registro de Supuestos"? Se utiliza para registrar todos los supuestos y restricciones a lo largo del ciclo de vida del proyecto.
-¿Cuál es el propósito del proceso "Identificar a los Interesados"? Es el proceso de identificar periódicamente a los interesados del proyecto, así como de analizar y documentar información relevante relativa a sus intereses, participación, interdependencias, influencia y posible impacto en el éxito del proyecto.
-Nombra tres entradas para el proceso "Identificar a los Interesados". Acta de constitución del proyecto, Documentos de negocio, Plan para la dirección del proyecto, Documentos del proyecto, Acuerdos, Factores ambientales de la empresa y Activos de los procesos de la organización.
-¿Cuáles son las salidas del proceso "Identificar a los Interesados"? Registro de interesados, Solicitudes de cambio, Actualizaciones al plan para la dirección del proyecto y Actualizaciones a los documentos del proyecto.
-¿Qué es el "Mapeo/representación de interesados"? Es un método para categorizar a los interesados que ayuda al equipo a construir relaciones con ellos.
-Describe la "Matriz de poder/interés". Es una técnica que agrupa a los interesados según su nivel de autoridad (poder) y su nivel de inquietud acerca de los resultados del proyecto (interés).
-¿Qué tres elementos evalúa el "Modelo de prominencia" para describir clases de interesados? Poder, urgencia y legitimidad.
-¿Cómo clasifica la "Dirección de la influencia" a los interesados? Ascendente, descendente, hacia afuera o lateral.
-¿Qué información de identificación contiene el "Registro de Interesados"? Nombre, puesto en la organización, ubicación, datos de contacto y rol en el proyecto.
-¿Qué documentos del proyecto se pueden actualizar como resultado de identificar a los interesados? Registro de supuestos, Registro de incidentes y Registro de riesgos.
+¿Qué es el Acta de Constitución del Proyecto? Es el documento que autoriza formalmente la existencia de un proyecto y le da al director del proyecto la autoridad para usar recursos de la organización.
+¿Qué beneficios clave tiene el Acta de Constitución del Proyecto? Proporciona un vínculo con los objetivos estratégicos, crea un registro formal y muestra el compromiso de la organización con el proyecto.
+¿Qué documento de negocio se utiliza más comúnmente para crear el Acta de Constitución del Proyecto? El caso de negocio aprobado.
+¿Menciona tres razones por las cuales se puede crear un caso de negocio? Demanda del mercado, requisito legal y avance tecnológico.
+¿Qué es el plan de gestión de beneficios? Es un documento que describe cómo y cuándo se entregarán los beneficios del proyecto y cómo se medirán.
+¿Qué son los acuerdos en la fase de iniciación? Documentos que establecen las intenciones iniciales de un proyecto, como contratos, memorandos o acuerdos verbales.
+¿Menciona dos factores ambientales que pueden influir en un proyecto? Estándares gubernamentales o de la industria y condiciones del mercado.
+¿Qué son los activos de los procesos de la organización? Políticas, procesos, plantillas e información histórica de proyectos anteriores.
+¿Qué es el juicio de expertos en administración de proyectos? Es la opinión de personas con conocimiento, experiencia o capacitación especializada en un área relevante.
+¿Qué técnica de recopilación de datos se utiliza para generar ideas en grupo en poco tiempo? La tormenta de ideas.
+¿Qué es la gestión de conflictos en las habilidades interpersonales? Es una técnica que ayuda a alinear a los interesados respecto a los objetivos y criterios de éxito del proyecto.
+¿Cuál es el objetivo principal de las reuniones de iniciación? Definir y acordar los elementos fundamentales del acta constitutiva del proyecto.
+¿Qué información incluye el Acta de Constitución del Proyecto? Propósito, objetivos medibles, entregables, riesgos, cronograma de hitos, recursos, lista de interesados y criterios de aprobación.
+¿Qué es el Registro de Supuestos? Documento donde se registran supuestos y restricciones a lo largo del ciclo de vida del proyecto.
+¿Qué es la Identificación de los Interesados? Es el proceso de reconocer, analizar y documentar información sobre los interesados y su influencia en el proyecto.
+¿Qué documento puede incluir una lista inicial de interesados? El caso de negocio.
+¿Qué describe el plan de gestión de comunicaciones? Cómo se planificarán, estructurarán e implementarán las comunicaciones del proyecto.
+¿Qué es el plan de involucramiento de los interesados? Documento que establece estrategias para promover la participación productiva de los interesados en el proyecto.
+¿Qué técnica de análisis se utiliza para evaluar el poder y el interés de los interesados? La matriz de poder/interés.
+¿Qué es el modelo de prominencia? Clasifica a los interesados según poder, urgencia y legitimidad (o proximidad en algunas versiones).
+¿Cómo se clasifican los interesados según la dirección de influencia? Ascendente, descendente, hacia afuera o lateral.
+¿Qué es el registro de interesados? Documento que contiene datos de identificación, evaluación y clasificación de los interesados del proyecto.
+¿Qué son las solicitudes de cambio en la identificación de interesados? Son ajustes al producto, plan de dirección o documentos cuando aparece nueva información sobre interesados.
+¿Qué componentes del plan de dirección del proyecto pueden actualizarse con cambios de interesados? Plan de gestión de requisitos, comunicaciones, riesgos y plan de involucramiento de interesados.
+¿Qué documentos pueden actualizarse como resultado de la identificación de interesados? Registro de supuestos, registro de incidentes y registro de riesgos.
