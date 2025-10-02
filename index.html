@@ -47,6 +47,10 @@
     <div class="card">
         <div class="card-body">
             <div class="pregunta-container">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <span id="contador" class="badge bg-info">Preguntas restantes: -</span>
+                    <span id="ciclo" class="badge bg-secondary">Ciclo iniciado</span>
+                </div>
                 <h2 id="pregunta" class="text-primary mb-4">Cargando pregunta...</h2>
             </div>
             <div id="opciones" class="d-grid gap-2">
@@ -65,6 +69,7 @@
 <script>
 let preguntas = [];
 let respuestas = [];
+let preguntasDisponibles = []; // Array que mantiene las preguntas aún no mostradas en este ciclo
 
 async function cargarPreguntasDesdeArchivo() {
     const res = await fetch('preguntas.txt');
@@ -77,7 +82,36 @@ async function cargarPreguntasDesdeArchivo() {
         };
     });
     respuestas = preguntas.map(p => p.respuesta);
+    // Inicializar el array de preguntas disponibles con todas las preguntas
+    reiniciarCicloPreguntas();
+    actualizarContador();
     cargarPregunta();
+}
+
+function reiniciarCicloPreguntas() {
+    // Copia todas las preguntas al array de disponibles
+    preguntasDisponibles = [...preguntas];
+    // Actualizar indicador de ciclo
+    document.getElementById('ciclo').textContent = 'Nuevo ciclo iniciado';
+    document.getElementById('ciclo').className = 'badge bg-success';
+    setTimeout(() => {
+        document.getElementById('ciclo').textContent = 'En progreso';
+        document.getElementById('ciclo').className = 'badge bg-secondary';
+    }, 2000);
+}
+
+function actualizarContador() {
+    const contador = document.getElementById('contador');
+    contador.textContent = `Preguntas restantes: ${preguntasDisponibles.length}`;
+    
+    if (preguntasDisponibles.length === 0) {
+        contador.textContent = 'Ciclo completado - Reiniciando...';
+        contador.className = 'badge bg-warning';
+    } else if (preguntasDisponibles.length <= 3) {
+        contador.className = 'badge bg-warning';
+    } else {
+        contador.className = 'badge bg-info';
+    }
 }
 
 function cargarPregunta() {
@@ -89,8 +123,22 @@ function cargarPregunta() {
         return;
     }
 
-    const preguntaActual = preguntas[Math.floor(Math.random() * preguntas.length)];
+    // Si no quedan preguntas disponibles, reiniciar el ciclo
+    if (preguntasDisponibles.length === 0) {
+        reiniciarCicloPreguntas();
+    }
+
+    // Seleccionar una pregunta aleatoria del array de disponibles
+    const indiceAleatorio = Math.floor(Math.random() * preguntasDisponibles.length);
+    const preguntaActual = preguntasDisponibles[indiceAleatorio];
+    
+    // Remover la pregunta del array de disponibles (como sacar una carta del mazo)
+    preguntasDisponibles.splice(indiceAleatorio, 1);
+    
     document.getElementById('pregunta').textContent = preguntaActual.pregunta;
+    
+    // Actualizar el contador después de remover la pregunta
+    actualizarContador();
 
     const respuestasOpciones = new Set();
     respuestasOpciones.add(preguntaActual.respuesta);
