@@ -72,20 +72,42 @@ let respuestas = [];
 let preguntasDisponibles = []; // Array que mantiene las preguntas aún no mostradas en este ciclo
 
 async function cargarPreguntasDesdeArchivo() {
-    const res = await fetch('preguntas.txt');
-    const texto = await res.text();
-    preguntas = texto.trim().split('\n').map(linea => {
-        const [pregunta, respuesta] = linea.split('? ');
-        return {
-            pregunta: pregunta + '?',
-            respuesta: respuesta.trim()
-        };
-    });
-    respuestas = preguntas.map(p => p.respuesta);
-    // Inicializar el array de preguntas disponibles con todas las preguntas
-    reiniciarCicloPreguntas();
-    actualizarContador();
-    cargarPregunta();
+    try {
+        const res = await fetch('preguntas.txt');
+        if (!res.ok) throw new Error(`HTTP ${res.status} - ${res.statusText}`);
+        const texto = await res.text();
+        // Split robusto para CRLF y LF, y filtrar líneas vacías
+        const lineas = texto.split(/\r?\n/).map(l => l.trim()).filter(l => l.length > 0);
+        preguntas = lineas.map(linea => {
+            // Buscar la primera ocurrencia de '?'
+            const idx = linea.indexOf('?');
+            if (idx === -1) {
+                // Si no hay '?', tratar toda la línea como pregunta sin respuesta
+                return { pregunta: linea, respuesta: '' };
+            }
+            const pregunta = linea.slice(0, idx + 1).trim();
+            const respuesta = linea.slice(idx + 1).trim();
+            return { pregunta, respuesta };
+        }).filter(p => p.pregunta && p.respuesta); // eliminar entradas incompletas
+        respuestas = preguntas.map(p => p.respuesta);
+        if (preguntas.length === 0) {
+            document.getElementById('pregunta').textContent = 'No se encontraron preguntas válidas en preguntas.txt.';
+            document.getElementById('contador').textContent = 'Preguntas restantes: 0';
+            return;
+        }
+        // Inicializar el array de preguntas disponibles con todas las preguntas
+        reiniciarCicloPreguntas();
+        actualizarContador();
+        cargarPregunta();
+    } catch (err) {
+        console.error('Error cargando preguntas:', err);
+        document.getElementById('pregunta').textContent = 'Error cargando preguntas. Ver consola para detalles.';
+        document.getElementById('contador').textContent = 'Error';
+        // Sugerencia rápida para el usuario que abre el archivo con file://
+        if (location.protocol === 'file:') {
+            console.warn('Si estás abriendo index.html con file://, fetch puede fallar. Ejecuta un servidor local (ej. python -m http.server) y abre http://localhost:8000/');
+        }
+    }
 }
 
 function reiniciarCicloPreguntas() {
