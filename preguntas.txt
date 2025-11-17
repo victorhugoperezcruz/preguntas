@@ -3,7 +3,7 @@
 ¿Nombra 3 técnicas de "Recopilación de datos"? Tormenta de ideas, Entrevistas, Grupos focales, Cuestionarios y encuestas, o Estudios comparativos. 
 ¿Qué documento de entrada se utiliza para identificar a los interesados que pueden proporcionar información sobre los requisitos? El Registro de Interesados. 
 ¿En qué consiste la técnica de "Estudios Comparativos"? Implican cotejar productos, procesos y prácticas con los de organizaciones comparables para identificar mejores prácticas y generar ideas de mejora. 
-¿Cuál es la diferencia entre una votación por "Mayoría" y una por "Pluralidad"? "Mayoría" es una decisión con el apoyo de más del 50% del grupo, mientras que "Pluralidad" es una decisión tomada por el conjunto de personas más numeroso, aunque no se alcance la mayoría. 
+¿Cuál es la diferencia entre una votación por "Mayoría" y una por "Pluralidad"? Mayoría es una decisión con el apoyo de más del 50% del grupo, mientras que Pluralidad es una decisión tomada por el conjunto de personas más numeroso, aunque no se alcance la mayoría. 
 ¿Para qué se utilizan los "Diagramas de Afinidad"? Permiten clasificar en grupos un gran número de ideas para su revisión y análisis. 
 ¿Qué es un "observador participante" en la técnica de Observación/conversación? Es un observador que de hecho lleva a cabo un proceso o procedimiento para experimentar cómo se hace y descubrir requisitos ocultos. 
 ¿Qué representan visualmente los "Diagramas de contexto"? Representan visualmente el alcance del producto al mostrar un sistema de negocio y sus interacciones con las personas y otros sistemas (actores). 
