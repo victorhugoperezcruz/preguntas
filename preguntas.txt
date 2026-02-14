@@ -1,40 +1,35 @@
-¿Cuál es el beneficio clave del proceso Recopilar Requisitos? Proporciona la base para definir el alcance del producto y el alcance del proyecto. 
-¿Cuáles son las dos salidas principales del proceso Recopilar Requisitos? La Documentación de requisitos y la Matriz de trazabilidad de requisitos. 
-¿Nombra 3 técnicas de "Recopilación de datos"? Tormenta de ideas, Entrevistas, Grupos focales, Cuestionarios y encuestas, o Estudios comparativos. 
-¿Qué documento de entrada se utiliza para identificar a los interesados que pueden proporcionar información sobre los requisitos? El Registro de Interesados. 
-¿En qué consiste la técnica de "Estudios Comparativos"? Implican cotejar productos, procesos y prácticas con los de organizaciones comparables para identificar mejores prácticas y generar ideas de mejora. 
-¿Cuál es la diferencia entre una votación por "Mayoría" y una por "Pluralidad"? Mayoría es una decisión con el apoyo de más del 50% del grupo, mientras que Pluralidad es una decisión tomada por el conjunto de personas más numeroso, aunque no se alcance la mayoría. 
-¿Para qué se utilizan los "Diagramas de Afinidad"? Permiten clasificar en grupos un gran número de ideas para su revisión y análisis. 
-¿Qué es un "observador participante" en la técnica de Observación/conversación? Es un observador que de hecho lleva a cabo un proceso o procedimiento para experimentar cómo se hace y descubrir requisitos ocultos. 
-¿Qué representan visualmente los "Diagramas de contexto"? Representan visualmente el alcance del producto al mostrar un sistema de negocio y sus interacciones con las personas y otros sistemas (actores). 
-¿Qué cinco características deben tener los requisitos antes de ser incorporados a la línea base? Deben ser inequívocos (medibles y comprobables), trazables, completos, coherentes y aceptables para los interesados clave. 
-¿Cuál es la diferencia entre "Requisitos funcionales" y "Requisitos no funcionales"? Los funcionales describen los comportamientos del producto (acciones, procesos), mientras que los no funcionales describen las condiciones ambientales o cualidades para que el producto sea eficaz (confiabilidad, seguridad, desempeño). 
-¿Qué describen los "Requisitos de transición y preparación"? Describen capacidades temporales, como la conversión de datos y los requisitos de capacitación, necesarias para pasar del estado actual al estado futuro deseado. 
-¿Cuál es el propósito principal de la "Matriz de trazabilidad de requisitos"? Ayuda a asegurar que cada requisito agregue valor del negocio, al vincularlo con los objetivos del negocio y del proyecto. 
-¿Nombra 4 atributos que puede incluir una Matriz de trazabilidad de requisitos? Un identificador único, una descripción textual, el fundamento de su incorporación, el responsable, la fuente, la prioridad, la versión, el estado actual, etc. 
-¿Cuál es el beneficio clave del proceso "Definir el Alcance"? Describe los límites del producto, servicio o resultado y los criterios de aceptación. 
-¿Cuál es la salida principal del proceso "Definir el Alcance"? El Enunciado del alcance del proyecto. 
-¿Qué técnica de análisis de datos se puede utilizar en el proceso "Definir el Alcance"? El Análisis de alternativas. 
-¿Nombra 4 componentes que incluye el enunciado detallado del alcance del proyecto? Descripción del alcance del producto, Entregables, Criterios de aceptación y Exclusiones del proyecto. 
-¿Por qué es importante establecer explícitamente las "Exclusiones del proyecto"? Ayuda a gestionar las expectativas de los interesados. 
-¿Qué es el proceso "Crear la EDT" (WBS)? Es el proceso de subdividir los entregables del proyecto y el trabajo del proyecto en componentes más pequeños y más fáciles de manejar. 
-¿Cómo se llaman los componentes del nivel más bajo de la EDT? Paquetes de trabajo. 
-¿Cuál es la herramienta y técnica clave (además del juicio de expertos) utilizada para "Crear la EDT"? La Descomposición. 
-¿Qué es la "Línea base del alcance"? Es la versión aprobada de un enunciado del alcance, EDT y su diccionario de la EDT asociado. 
-¿Qué 3 componentes constituyen la "Línea base del alcance"? El Enunciado del Alcance del Proyecto, la EDT y el Diccionario de la EDT. 
-¿Qué información proporciona el "Diccionario de la EDT"? Proporciona información detallada sobre los entregables, actividades y programación de cada uno de los componentes de la EDT. 
-¿Cuál es el beneficio clave del proceso "Definir las Actividades"? Descompone los paquetes de trabajo en actividades del cronograma que proporcionan una base para la estimación, programación, ejecución, monitoreo y control. 
-¿Qué es la "Planificación gradual"? Es una técnica de planificación iterativa en la cual el trabajo a realizar a corto plazo se planifica en detalle, mientras que el trabajo futuro se planifica a un nivel superior. 
-¿Nombra las 3 salidas principales del proceso "Definir las Actividades"?Lista de actividades, Atributos de la actividad y Lista de hitos. 
-¿Qué es un "hito" y qué duración tiene? Un hito es un punto o evento significativo dentro del proyecto. Tiene una duración nula. 
-¿Cuál es el beneficio clave del proceso "Secuenciar las Actividades"? La definición de la secuencia lógica de trabajo para obtener la máxima eficiencia teniendo en cuenta todas las restricciones del proyecto. 
-¿Cómo se llama el método utilizado para construir un modelo de programación donde las actividades se representan mediante nodos? Método de diagramación por precedencia (MDP). 
-¿Nombra los 4 tipos de relaciones lógicas del MDP? Final a Inicio (FS), Final a Final (FF), Inicio a Inicio (SS) e Inicio a Final (SF). 
-¿Cuál es la relación lógica más común, ejemplificada por "no se puede instalar el SO (sucesora) hasta ensamblar el hardware (predecesora)"? Final a Inicio (FS). 
-¿Cuál es la diferencia entre dependencias "obligatorias" y "discrecionales"? Las obligatorias son requeridas legalmente, por contrato o por la naturaleza del trabajo (limitación física). Las discrecionales se basan en mejores prácticas o preferencia, aunque existan otras secuencias aceptables. 
-¿Cuál es la diferencia entre dependencias "externas" e "internas"? Las externas implican una relación con actividades fuera del proyecto (ej. un proveedor) y están fuera del control del equipo. Las internas son entre actividades del proyecto y están bajo el control del equipo. 
-¿Qué es un "adelanto"? Es la cantidad de tiempo en que una actividad sucesora se puede anticipar con respecto a una actividad predecesora. 
-¿Qué es un "retraso"? Es la cantidad de tiempo en que una actividad sucesora se retrasa con respecto a una actividad predecesora. 
-¿Cuál es el beneficio clave de "Estimar los Recursos de las Actividades"? Identifica el tipo, cantidad y características de los recursos necesarios para completar el proyecto. 
-¿Qué es una "Estructura de desglose de recursos" (RBS)? Es una representación jerárquica de los recursos por categoría (ej. mano de obra, materiales) y tipo (ej. nivel de habilidad, grado). 
-¿Cuál es la diferencia entre la estimación "análoga" y la "paramétrica" para la duración? La análoga usa datos históricos de un proyecto similar (ej. duración total). La paramétrica usa un algoritmo o relación estadística (ej. horas por unidad de trabajo).
+¿Cuál es el objetivo principal de la seguridad informática? Proporcionar la tríada de garantías C.I.A.
+¿Qué significa la sigla C.I.A. en seguridad? Confidencialidad, Integridad y Disponibilidad
+¿Qué ataque vulnera la Confidencialidad en el modelo D.A.D.? Divulgación
+¿Qué ataque vulnera la Integridad en el modelo D.A.D.? Alteración
+¿Qué ataque vulnera la Disponibilidad en el modelo D.A.D.? Denegación
+¿Cuál es la función del Ingeniero de Software en seguridad? Diseñar e implementar sistemas con el mínimo de vulnerabilidades explotables
+¿Cómo se definen las vulnerabilidades desde la perspectiva del software? Bugs que comprometen la tríada C.I.A.
+¿Qué motiva a los atacantes de primera generación (Hackers)? Curiosidad y orgullo
+¿Qué motiva a los atacantes de segunda generación (Criminales)? Lucro económico y avaricia
+¿Qué motiva a los atacantes de tercera generación (Info-Warriors)? Poder y fines políticos o éticos
+¿Cuál es una ventaja natural del atacante sobre el defensor? El atacante elige el punto más débil y el defensor debe proteger todo el perímetro
+¿Qué es un Activo (Asset)? Algo de valor que se desea proteger como datos o reputación
+¿Cuál es la fórmula del Riesgo? Riesgo = Vulnerabilidad + Amenaza
+¿Cuáles son las tres dimensiones del Cubo de McCumber? Garantías, Estados de la info y Salvaguardas
+¿Qué significa la 'S' en el modelo S.T.R.I.D.E.? Spoofing o suplantar identidad
+¿Qué significa la 'T' en el modelo S.T.R.I.D.E.? Tampering o manipular datos sin autorización
+¿Qué es el Repudio (Repudiation) en S.T.R.I.D.E.? Negar una acción realizada como borrar logs de acceso
+¿Qué es la Elevación de Privilegios? Realizar acciones prohibidas superando el nivel de acceso normal
+¿En qué capa del modelo OSI ocurre el SYN Flood? Capa 4 (Transporte)
+¿Qué es el SideJacking en la Capa 5 (Sesión)? Capturar cookies para suplantar una sesión
+¿Qué técnica de persuasión usa el respeto a uniformes o títulos? Autoridad (Authority)
+¿Qué es la Ingeniería Social Inversa? Sabotaje seguido de anuncio de ayuda y asistencia maliciosa
+¿Qué técnica crea una falsa urgencia para forzar decisiones rápidas? Escasez (Scarcity) o Rushing
+¿Qué significa la sigla T.R.I.P.P. en defensa contra ingeniería social? Training, Reaction, Inoculation, Policy y Physical
+¿Qué es un ataque de homógrafos? Uso de caracteres visualmente iguales pero con distinta codificación digital
+¿Cuál es el propósito de la Canonicalización? Llevar una entrada a un formato estándar para compararlo
+¿Qué es una Botnet? Red de hosts comprometidos llamados bots o zombies
+¿Qué caracteriza a un ataque DDoS de Reflexión UDP? El atacante falsifica la IP de origen y usa un reflector para amplificar el tráfico
+¿Qué es el Cache Busting en ataques de capa 7? Variar query strings para evitar la caché y forzar al servidor de origen a procesar
+¿Qué servicio de AWS ofrece protección automática contra ataques de Capas 3 y 4 sin costo? AWS Shield Standard
+¿Cuál es la diferencia entre Phishing y Spear Phishing? El Phishing es masivo y el Spear Phishing es dirigido a una persona específica
+¿Qué es el Whaling? Ataques de phishing dirigidos a altos ejecutivos
+¿Qué es un Rootkit? Malware cuyo fin es ocultar su presencia incluso del sistema operativo modificando el kernel
+¿Qué es un Trojan (Troya)? Malware que se mascara como programa legítimo y requiere intervención humana
+¿Qué diferencia a un Worm (Gusano) de otros malware? Se replica a través de la red de forma autónoma sin intervención humana
