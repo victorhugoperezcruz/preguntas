@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,28 +12,34 @@
             background-color: #e3f2fd;
             min-height: 100vh;
         }
+
         .card {
             max-width: 800px;
             margin: 2rem auto;
             box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
         }
+
         .btn-respuesta {
             margin: 0.5rem 0;
             padding: 1rem;
             font-weight: 500;
             transition: transform 0.2s;
         }
+
         .btn-respuesta:hover {
             transform: scale(1.02);
         }
+
         .correct {
             background-color: #198754 !important;
             color: white !important;
         }
+
         .incorrect {
             background-color: #dc3545 !important;
             color: white !important;
         }
+
         .pregunta-container {
             background-color: #f8f9fa;
             padding: 2rem;
@@ -41,29 +48,31 @@
         }
     </style>
 </head>
+
 <body>
 
-<div class="container py-5">
-    <div class="card">
-        <div class="card-body">
-            <div class="pregunta-container">
-                <div class="d-flex justify-content-between align-items-center mb-3">
-                    <span id="contador" class="badge bg-info">Preguntas restantes: -</span>
-                    <span id="ciclo" class="badge bg-secondary">Ciclo iniciado</span>
+    <div class="container py-5">
+        <div class="card">
+            <div class="card-body">
+                <div class="pregunta-container">
+                    <div class="d-flex justify-content-between align-items-center mb-3">
+                        <span id="contador" class="badge bg-info">Preguntas restantes: -</span>
+                        <span id="ciclo" class="badge bg-secondary">Ciclo iniciado</span>
+                    </div>
+                    <h2 id="pregunta" class="text-primary mb-4">Cargando pregunta...</h2>
                 </div>
-                <h2 id="pregunta" class="text-primary mb-4">Cargando pregunta...</h2>
+                <div id="opciones" class="d-grid gap-2">
+                    <!-- Las opciones se cargarán aquí -->
+                </div>
+                <button class="btn btn-primary mt-4 w-100" onclick="cargarPregunta()">
+                    Siguiente pregunta
+                </button>
             </div>
-            <div id="opciones" class="d-grid gap-2">
-                <!-- Las opciones se cargarán aquí -->
-            </div>
-            <button class="btn btn-primary mt-4 w-100" onclick="cargarPregunta()">
-                Siguiente pregunta
-            </button>
         </div>
     </div>
-</div>
 
-<script src="srcipt.js"></script>
+    <script src="script.js"></script>
 
 </body>
+
 </html>
