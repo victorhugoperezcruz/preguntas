@@ -1,6 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-
-
 let preguntas = [];
 let respuestas = [];
 let preguntasDisponibles = []; // Array que mantiene las preguntas aún no mostradas en este ciclo
@@ -59,7 +56,7 @@ function reiniciarCicloPreguntas() {
 function actualizarContador() {
     const contador = document.getElementById('contador');
     contador.textContent = `Preguntas restantes: ${preguntasDisponibles.length}`;
-    
+
     if (preguntasDisponibles.length === 0) {
         contador.textContent = 'Ciclo completado - Reiniciando...';
         contador.className = 'badge bg-warning';
@@ -87,12 +84,12 @@ function cargarPregunta() {
     // Seleccionar una pregunta aleatoria del array de disponibles
     const indiceAleatorio = Math.floor(Math.random() * preguntasDisponibles.length);
     const preguntaActual = preguntasDisponibles[indiceAleatorio];
-    
+
     // Remover la pregunta del array de disponibles (como sacar una carta del mazo)
     preguntasDisponibles.splice(indiceAleatorio, 1);
-    
+
     document.getElementById('pregunta').textContent = preguntaActual.pregunta;
-    
+
     // Actualizar el contador después de remover la pregunta
     actualizarContador();
 
