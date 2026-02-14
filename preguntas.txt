@@ -1,10 +1,10 @@
-¿Cuál es el objetivo principal de la seguridad informática? Proporcionar la tríada de garantías C.I.A.
+¿Cuál es el objetivo principal de la seguridad informática? Proporcionar la tríada de garantías C.I.A
 ¿Qué significa la sigla C.I.A. en seguridad? Confidencialidad, Integridad y Disponibilidad
 ¿Qué ataque vulnera la Confidencialidad en el modelo D.A.D.? Divulgación
 ¿Qué ataque vulnera la Integridad en el modelo D.A.D.? Alteración
 ¿Qué ataque vulnera la Disponibilidad en el modelo D.A.D.? Denegación
 ¿Cuál es la función del Ingeniero de Software en seguridad? Diseñar e implementar sistemas con el mínimo de vulnerabilidades explotables
-¿Cómo se definen las vulnerabilidades desde la perspectiva del software? Bugs que comprometen la tríada C.I.A.
+¿Cómo se definen las vulnerabilidades desde la perspectiva del software? Bugs que comprometen la tríada C.I.A
 ¿Qué motiva a los atacantes de primera generación (Hackers)? Curiosidad y orgullo
 ¿Qué motiva a los atacantes de segunda generación (Criminales)? Lucro económico y avaricia
 ¿Qué motiva a los atacantes de tercera generación (Info-Warriors)? Poder y fines políticos o éticos
