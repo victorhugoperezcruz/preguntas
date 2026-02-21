@@ -1,35 +1,40 @@
-¿Cuál es el objetivo principal de la seguridad informática? Proporcionar la tríada de garantías C.I.A
-¿Qué significa la sigla C.I.A. en seguridad? Confidencialidad, Integridad y Disponibilidad
-¿Qué ataque vulnera la Confidencialidad en el modelo D.A.D.? Divulgación
-¿Qué ataque vulnera la Integridad en el modelo D.A.D.? Alteración
-¿Qué ataque vulnera la Disponibilidad en el modelo D.A.D.? Denegación
-¿Cuál es la función del Ingeniero de Software en seguridad? Diseñar e implementar sistemas con el mínimo de vulnerabilidades explotables
-¿Cómo se definen las vulnerabilidades desde la perspectiva del software? Bugs que comprometen la tríada C.I.A
-¿Qué motiva a los atacantes de primera generación (Hackers)? Curiosidad y orgullo
-¿Qué motiva a los atacantes de segunda generación (Criminales)? Lucro económico y avaricia
-¿Qué motiva a los atacantes de tercera generación (Info-Warriors)? Poder y fines políticos o éticos
-¿Cuál es una ventaja natural del atacante sobre el defensor? El atacante elige el punto más débil y el defensor debe proteger todo el perímetro
-¿Qué es un Activo (Asset)? Algo de valor que se desea proteger como datos o reputación
-¿Cuál es la fórmula del Riesgo? Riesgo = Vulnerabilidad + Amenaza
-¿Cuáles son las tres dimensiones del Cubo de McCumber? Garantías, Estados de la info y Salvaguardas
-¿Qué significa la 'S' en el modelo S.T.R.I.D.E.? Spoofing o suplantar identidad
-¿Qué significa la 'T' en el modelo S.T.R.I.D.E.? Tampering o manipular datos sin autorización
-¿Qué es el Repudio (Repudiation) en S.T.R.I.D.E.? Negar una acción realizada como borrar logs de acceso
-¿Qué es la Elevación de Privilegios? Realizar acciones prohibidas superando el nivel de acceso normal
-¿En qué capa del modelo OSI ocurre el SYN Flood? Capa 4 (Transporte)
-¿Qué es el SideJacking en la Capa 5 (Sesión)? Capturar cookies para suplantar una sesión
-¿Qué técnica de persuasión usa el respeto a uniformes o títulos? Autoridad (Authority)
-¿Qué es la Ingeniería Social Inversa? Sabotaje seguido de anuncio de ayuda y asistencia maliciosa
-¿Qué técnica crea una falsa urgencia para forzar decisiones rápidas? Escasez (Scarcity) o Rushing
-¿Qué significa la sigla T.R.I.P.P. en defensa contra ingeniería social? Training, Reaction, Inoculation, Policy y Physical
-¿Qué es un ataque de homógrafos? Uso de caracteres visualmente iguales pero con distinta codificación digital
-¿Cuál es el propósito de la Canonicalización? Llevar una entrada a un formato estándar para compararlo
-¿Qué es una Botnet? Red de hosts comprometidos llamados bots o zombies
-¿Qué caracteriza a un ataque DDoS de Reflexión UDP? El atacante falsifica la IP de origen y usa un reflector para amplificar el tráfico
-¿Qué es el Cache Busting en ataques de capa 7? Variar query strings para evitar la caché y forzar al servidor de origen a procesar
-¿Qué servicio de AWS ofrece protección automática contra ataques de Capas 3 y 4 sin costo? AWS Shield Standard
-¿Cuál es la diferencia entre Phishing y Spear Phishing? El Phishing es masivo y el Spear Phishing es dirigido a una persona específica
-¿Qué es el Whaling? Ataques de phishing dirigidos a altos ejecutivos
-¿Qué es un Rootkit? Malware cuyo fin es ocultar su presencia incluso del sistema operativo modificando el kernel
-¿Qué es un Trojan (Troya)? Malware que se mascara como programa legítimo y requiere intervención humana
-¿Qué diferencia a un Worm (Gusano) de otros malware? Se replica a través de la red de forma autónoma sin intervención humana
+¿Qué es un Proyecto? Es un esfuerzo complejo y planificado para diseñar, desarrollar y mantener una solución digital que resuelva un problema específico
+¿Qué es la Administración? Proceso de planificar, organizar, dirigir y controlar recursos para alcanzar objetivos de manera eficiente y eficaz
+¿Qué permite la Administración de Proyectos? Controlar procesos, cumplir cronogramas, administrar recursos y garantizar estimaciones de productividad
+¿Qué es una Propuesta de Proyecto? Documento que describe detalladamente una idea para convencer a otros de su viabilidad y beneficios
+¿Qué es la Misión de un proyecto? Declaración que define el propósito principal, qué hace, a quién va dirigido y por qué existe el proyecto actualmente
+¿Qué es la Visión de un proyecto? Declaración clara de los objetivos a largo plazo y el impacto esperado, funcionando como guía estratégica al futuro
+¿Qué es un Eslogan? Frase corta y memorable que representa la identidad, valores o propuesta de valor de una empresa o proyecto
+¿Qué es un Logotipo? Tipo de logo que utiliza únicamente texto con un diseño tipográfico especial
+¿Qué es un Isotipo? Símbolo o icono que representa una marca sin necesidad de texto
+¿Qué es un Imagotipo? Combinación de texto e icono que pueden funcionar y separarse visualmente
+¿Qué es un Isologo? Diseño donde el texto y el símbolo están unidos y son inseparables
+¿Cuál es la función principal del Director de Proyecto? Aplicar conocimientos, habilidades y técnicas a las actividades para cumplir con los requisitos del proyecto
+¿Qué implica el Pensamiento Sistémico? Tener una visión holística de cómo las partes del proyecto interactúan entre sí y con sistemas externos
+¿Qué es la Resiliencia en un proyecto? Capacidad de absorber impactos y recuperarse rápidamente de un revés o fracaso
+¿Qué es la Adaptabilidad? Capacidad de responder a condiciones cambiantes ajustando el enfoque de manera iterativa
+¿Quiénes son los Stakeholders o Interesados? Cualquier persona o grupo que pueda tener influencia o ser impactado por el proyecto
+¿Qué es un Gatekeeper en el contexto de interesados? Parte interesada que controla el acceso a recursos o información vital para el proyecto
+¿Qué es el Acta Constitutiva (Project Charter)? Documento formal que prueba la existencia y comienzo legítimo de un proyecto
+¿Quién debe firmar el Acta Constitutiva? El Patrocinador (Sponsor), ya que el equipo de proyecto aún no está formado
+¿Qué es el 'SOW' en las entradas del acta constitutiva? Enunciado de trabajo que describe los requisitos del producto o servicio a entregar
+¿Cuál es la relación entre Tiempo y Costo? Es una variable donde a mayor duración del proyecto, mayor es el gasto en recursos y sueldos
+¿Qué sucede en la relación Tiempo vs Calidad? Si el tiempo es muy corto la calidad baja; con más tiempo se puede revisar y mejorar el resultado
+¿Qué es la Corrupción del Alcance? Riesgo donde el alcance del proyecto crece descontroladamente debido a nuevas peticiones del cliente
+¿Cuál es la fase de Inicio en la gestión de proyectos? Etapa donde se analiza la viabilidad, los riesgos y los recursos necesarios
+¿Qué se hace en la fase de Planeación? Se trazan las rutas de trabajo más óptimas para alcanzar los objetivos en tiempo y forma
+¿Qué ocurre en la fase de Ejecución? Se lleva a cabo la parte práctica del proyecto y se aporta claridad a las subtareas
+¿Qué es el Monitoreo y Control? Seguimiento continuo que permite redefinir estrategias para asegurar el éxito del proyecto
+¿Qué se evalúa en la fase de Cierre? Si se cumplió con las necesidades del cliente y si se alcanzaron los objetivos finales
+¿Qué es una Variable en un proyecto? Factores como costo, tiempo, alcance y calidad que influyen en el proceso y resultado
+¿Qué es la Metodología Ágil? Enfoque estructurado para el cambio que permite pasar del estado actual al futuro deseado de forma iterativa
+¿Qué es SAFe (Scaled Agile Framework)? Marco para coordinar múltiples equipos ágiles en grandes organizaciones que trabajan en un mismo producto complejo
+¿En qué se centra Lean Software Development? En minimizar el desperdicio que no agrega valor para entregar el producto más rápido y con calidad
+¿Cuál es la característica principal de Kanban? Método visual para visualizar el flujo de trabajo en tiempo real centrado en la mejora continua
+¿Qué propone la metodología Crystal? Un conjunto de variantes que se adaptan según el tamaño del equipo y la criticidad del proyecto
+¿Qué es Extreme Programming (XP)? Marco centrado en velocidad y simplicidad, con ciclos cortos, menos documentación y trabajo en parejas
+¿Cómo divide el trabajo la metodología SCRUM? En sprints planificados basándose en roles, artefactos y ceremonias específicas
+¿Qué es Scrumban? Marco híbrido que combina la estructura de sprints de Scrum con el flujo visual de Kanban
+¿Cuál es el porcentaje del examen en la evaluación de la materia? 70% de la calificación total
+¿Cuál es el requisito de asistencia para tener derecho a examen? Contar con al menos 3/4 partes (75%) de las asistencias
+¿Qué tipo de justificantes se aceptan en clase? Únicamente los emitidos por la Facultad de Ingeniería
