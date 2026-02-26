@@ -1,40 +1,45 @@
-¿Qué es un Proyecto? Es un esfuerzo complejo y planificado para diseñar, desarrollar y mantener una solución digital que resuelva un problema específico
-¿Qué es la Administración? Proceso de planificar, organizar, dirigir y controlar recursos para alcanzar objetivos de manera eficiente y eficaz
-¿Qué permite la Administración de Proyectos? Controlar procesos, cumplir cronogramas, administrar recursos y garantizar estimaciones de productividad
-¿Qué es una Propuesta de Proyecto? Documento que describe detalladamente una idea para convencer a otros de su viabilidad y beneficios
-¿Qué es la Misión de un proyecto? Declaración que define el propósito principal, qué hace, a quién va dirigido y por qué existe el proyecto actualmente
-¿Qué es la Visión de un proyecto? Declaración clara de los objetivos a largo plazo y el impacto esperado, funcionando como guía estratégica al futuro
-¿Qué es un Eslogan? Frase corta y memorable que representa la identidad, valores o propuesta de valor de una empresa o proyecto
-¿Qué es un Logotipo? Tipo de logo que utiliza únicamente texto con un diseño tipográfico especial
-¿Qué es un Isotipo? Símbolo o icono que representa una marca sin necesidad de texto
-¿Qué es un Imagotipo? Combinación de texto e icono que pueden funcionar y separarse visualmente
-¿Qué es un Isologo? Diseño donde el texto y el símbolo están unidos y son inseparables
-¿Cuál es la función principal del Director de Proyecto? Aplicar conocimientos, habilidades y técnicas a las actividades para cumplir con los requisitos del proyecto
-¿Qué implica el Pensamiento Sistémico? Tener una visión holística de cómo las partes del proyecto interactúan entre sí y con sistemas externos
-¿Qué es la Resiliencia en un proyecto? Capacidad de absorber impactos y recuperarse rápidamente de un revés o fracaso
-¿Qué es la Adaptabilidad? Capacidad de responder a condiciones cambiantes ajustando el enfoque de manera iterativa
-¿Quiénes son los Stakeholders o Interesados? Cualquier persona o grupo que pueda tener influencia o ser impactado por el proyecto
-¿Qué es un Gatekeeper en el contexto de interesados? Parte interesada que controla el acceso a recursos o información vital para el proyecto
-¿Qué es el Acta Constitutiva (Project Charter)? Documento formal que prueba la existencia y comienzo legítimo de un proyecto
-¿Quién debe firmar el Acta Constitutiva? El Patrocinador (Sponsor), ya que el equipo de proyecto aún no está formado
-¿Qué es el 'SOW' en las entradas del acta constitutiva? Enunciado de trabajo que describe los requisitos del producto o servicio a entregar
-¿Cuál es la relación entre Tiempo y Costo? Es una variable donde a mayor duración del proyecto, mayor es el gasto en recursos y sueldos
-¿Qué sucede en la relación Tiempo vs Calidad? Si el tiempo es muy corto la calidad baja; con más tiempo se puede revisar y mejorar el resultado
-¿Qué es la Corrupción del Alcance? Riesgo donde el alcance del proyecto crece descontroladamente debido a nuevas peticiones del cliente
-¿Cuál es la fase de Inicio en la gestión de proyectos? Etapa donde se analiza la viabilidad, los riesgos y los recursos necesarios
-¿Qué se hace en la fase de Planeación? Se trazan las rutas de trabajo más óptimas para alcanzar los objetivos en tiempo y forma
-¿Qué ocurre en la fase de Ejecución? Se lleva a cabo la parte práctica del proyecto y se aporta claridad a las subtareas
-¿Qué es el Monitoreo y Control? Seguimiento continuo que permite redefinir estrategias para asegurar el éxito del proyecto
-¿Qué se evalúa en la fase de Cierre? Si se cumplió con las necesidades del cliente y si se alcanzaron los objetivos finales
-¿Qué es una Variable en un proyecto? Factores como costo, tiempo, alcance y calidad que influyen en el proceso y resultado
-¿Qué es la Metodología Ágil? Enfoque estructurado para el cambio que permite pasar del estado actual al futuro deseado de forma iterativa
-¿Qué es SAFe (Scaled Agile Framework)? Marco para coordinar múltiples equipos ágiles en grandes organizaciones que trabajan en un mismo producto complejo
-¿En qué se centra Lean Software Development? En minimizar el desperdicio que no agrega valor para entregar el producto más rápido y con calidad
-¿Cuál es la característica principal de Kanban? Método visual para visualizar el flujo de trabajo en tiempo real centrado en la mejora continua
-¿Qué propone la metodología Crystal? Un conjunto de variantes que se adaptan según el tamaño del equipo y la criticidad del proyecto
-¿Qué es Extreme Programming (XP)? Marco centrado en velocidad y simplicidad, con ciclos cortos, menos documentación y trabajo en parejas
-¿Cómo divide el trabajo la metodología SCRUM? En sprints planificados basándose en roles, artefactos y ceremonias específicas
-¿Qué es Scrumban? Marco híbrido que combina la estructura de sprints de Scrum con el flujo visual de Kanban
-¿Cuál es el porcentaje del examen en la evaluación de la materia? 70% de la calificación total
-¿Cuál es el requisito de asistencia para tener derecho a examen? Contar con al menos 3/4 partes (75%) de las asistencias
-¿Qué tipo de justificantes se aceptan en clase? Únicamente los emitidos por la Facultad de Ingeniería
+¿Qué es Scrum? Es un método ágil y framework adaptable, iterativo, rápido y flexible diseñado para ofrecer valor constante.
+¿Cuáles son los principios de Scrum? Control de proceso empírico, auto-organización, colaboración, priorización basada en valor, time-boxing y desarrollo iterativo.
+¿Cuál es el propósito de la reunión de revisión del Sprint? Que el equipo demuestre los entregables al Product Owner para obtener su aprobación y aceptación.
+¿Qué asegura el Backlog Priorizado del Producto? Garantiza que los requerimientos de alto valor del cliente se cumplan primero durante el desarrollo.
+¿Qué facilita un entorno colaborativo en el equipo Scrum? El aprendizaje individual y grupal, el alineamiento con culturas organizacionales y contribuciones óptimas.
+¿Cuáles son los cinco pasos de la gestión de riesgos en Scrum? Identificación, evaluación, priorización, mitigación y comunicación de riesgos.
+¿Qué beneficios ofrece la entrega anticipada en Scrum? Permite que los requerimientos de alto valor se cumplan primero, centrando el framework en el cliente.
+¿Qué es el Daily Standup? Es una reunión diaria breve para obtener retroalimentación constante sobre el progreso del sprint.
+¿Quién es responsable de validar y aprobar los entregables del sprint? El Product Owner.
+¿En qué consiste el principio de Time-boxing? En asignar periodos de tiempo fijos para actividades específicas, asegurando ritmo y enfoque.
+¿Qué es el Sprint Backlog? Es la lista de tareas seleccionadas del Product Backlog que el equipo se compromete a realizar en un sprint.
+¿Cuál es la duración típica de un ciclo de Sprint? El ciclo suele durar entre 1 y 6 semanas.
+¿Qué busca la retrospectiva del sprint? Analizar el proceso de trabajo del equipo para identificar mejoras constantes.
+¿Qué son las Pruebas de Software? Procesos dinámicos para verificar la calidad del código y evaluar su comportamiento mediante casos de prueba específicos.
+¿Cuál es el objetivo principal de intentar generar fallos durante las pruebas? Evaluar el comportamiento del sistema y verificar la calidad técnica del código.
+¿Qué son las Pruebas de Caja Negra? Son aquellas centradas exclusivamente en los resultados obtenidos del software.
+¿Qué son las Pruebas de Caja Blanca? Son aquellas que analizan el comportamiento y la lógica interna del código fuente.
+¿Qué norma internacional define los requisitos de calidad del software? La norma ISO/IEC 25010:2011.
+¿Cuáles son las tres características principales de calidad en el uso según ISO 25010? Efectividad, eficiencia y satisfacción.
+¿Qué se busca comprobar en una prueba de requerimientos de registro médico? Que el sistema responda correctamente, como emitir advertencias ante alergias conocidas del paciente.
+¿Qué significa "Freedom from risk" en el modelo de calidad? La capacidad del sistema para mitigar riesgos económicos, de salud, seguridad y ambientales.
+¿Qué es un caso de prueba? Una situación específica diseñada para verificar una funcionalidad o forzar errores en el software.
+¿Qué subcaracterísticas componen la satisfacción del usuario en ISO 25010? Utilidad, confianza, placer y comodidad.
+¿Cuál es la diferencia entre verificación y evaluación en el testing? La verificación revisa la calidad del código y la evaluación analiza su comportamiento funcional.
+¿Qué son las convenciones de código? Reglas de estilo que incluyen el nombrado de variables, organización del fuente y uso de espacios.
+¿Qué indica la notación Camel Case? Es una regla donde se juntan palabras y todas, excepto la primera, inician con mayúscula.
+¿Cómo se vería un ejemplo de Camel Case? holaMundo o estaEsUnaVariable.
+¿Por qué no existe un modelo general único para medir la calidad del software? Porque la calidad depende de la interpretación, el punto de vista del usuario y el proyecto.
+¿Qué regulan las reglas de indentación? El uso consistente de espacios y tabuladores para mejorar la legibilidad del código.
+¿Qué lenguajes tienen convenciones de estilo definidas por sus creadores? Lenguajes como Java, C# y Kotlin tienen sus propias guías oficiales.
+¿Qué factores determinan la calidad del software para el usuario? Atributos específicos que dependen directamente de sus necesidades y contexto.
+¿Qué es el código limpio (Clean Code)? Una práctica fundamental que busca que el código sea fácil de leer y mantener.
+¿Cuál es el propósito de los comentarios según las convenciones? Explicar la lógica compleja siguiendo reglas de estilo para no ensuciar el código.
+¿Qué es la refactorización? Técnica para mejorar la estructura interna del código sin alterar su comportamiento externo, aumentando la calidad.
+¿En qué consiste el aprendizaje continuo para la calidad del software? En la actualización constante del desarrollador en nuevas prácticas y estándares.
+¿Qué es la construcción de software? La creación detallada de software mediante codificación, depuración e integración de componentes.
+¿Cuál es el objetivo final de la construcción? Transformar el diseño detallado en código ejecutable e integrar todo en un producto funcional.
+¿Menciona tres actividades clave en la fase de construcción? Codificación, manejo de dependencias y verificación de la calidad del código.
+¿Qué tecnologías son comunes para el desarrollo Front End? HTML, CSS, JavaScript y frameworks como React o Angular.
+¿Qué lenguajes se utilizan habitualmente en el Back End? Java, C# (.NET), PHP y Node.js.
+¿Qué bases de datos se usan frecuentemente en la construcción? SQL Server, Oracle y MySQL.
+¿Qué herramientas de desarrollo (IDEs) se mencionan en la construcción? Visual Studio y Eclipse.
+¿Qué es el manejo de dependencias? Actividad que asegura la correcta integración de librerías y componentes externos necesarios para el software.
+¿Qué sistemas operativos suelen utilizarse en los entornos de desarrollo? Windows y Linux.
+¿Hacia qué entornos deben orientarse los proyectos de software reales? Entornos económicos, sociales, políticos, éticos, de seguridad y salud.
