@@ -1,45 +1,30 @@
-¿Qué es Scrum? Es un método ágil y framework adaptable, iterativo, rápido y flexible diseñado para ofrecer valor constante.
-¿Cuáles son los principios de Scrum? Control de proceso empírico, auto-organización, colaboración, priorización basada en valor, time-boxing y desarrollo iterativo.
-¿Cuál es el propósito de la reunión de revisión del Sprint? Que el equipo demuestre los entregables al Product Owner para obtener su aprobación y aceptación.
-¿Qué asegura el Backlog Priorizado del Producto? Garantiza que los requerimientos de alto valor del cliente se cumplan primero durante el desarrollo.
-¿Qué facilita un entorno colaborativo en el equipo Scrum? El aprendizaje individual y grupal, el alineamiento con culturas organizacionales y contribuciones óptimas.
-¿Cuáles son los cinco pasos de la gestión de riesgos en Scrum? Identificación, evaluación, priorización, mitigación y comunicación de riesgos.
-¿Qué beneficios ofrece la entrega anticipada en Scrum? Permite que los requerimientos de alto valor se cumplan primero, centrando el framework en el cliente.
-¿Qué es el Daily Standup? Es una reunión diaria breve para obtener retroalimentación constante sobre el progreso del sprint.
-¿Quién es responsable de validar y aprobar los entregables del sprint? El Product Owner.
-¿En qué consiste el principio de Time-boxing? En asignar periodos de tiempo fijos para actividades específicas, asegurando ritmo y enfoque.
-¿Qué es el Sprint Backlog? Es la lista de tareas seleccionadas del Product Backlog que el equipo se compromete a realizar en un sprint.
-¿Cuál es la duración típica de un ciclo de Sprint? El ciclo suele durar entre 1 y 6 semanas.
-¿Qué busca la retrospectiva del sprint? Analizar el proceso de trabajo del equipo para identificar mejoras constantes.
-¿Qué son las Pruebas de Software? Procesos dinámicos para verificar la calidad del código y evaluar su comportamiento mediante casos de prueba específicos.
-¿Cuál es el objetivo principal de intentar generar fallos durante las pruebas? Evaluar el comportamiento del sistema y verificar la calidad técnica del código.
-¿Qué son las Pruebas de Caja Negra? Son aquellas centradas exclusivamente en los resultados obtenidos del software.
-¿Qué son las Pruebas de Caja Blanca? Son aquellas que analizan el comportamiento y la lógica interna del código fuente.
-¿Qué norma internacional define los requisitos de calidad del software? La norma ISO/IEC 25010:2011.
-¿Cuáles son las tres características principales de calidad en el uso según ISO 25010? Efectividad, eficiencia y satisfacción.
-¿Qué se busca comprobar en una prueba de requerimientos de registro médico? Que el sistema responda correctamente, como emitir advertencias ante alergias conocidas del paciente.
-¿Qué significa "Freedom from risk" en el modelo de calidad? La capacidad del sistema para mitigar riesgos económicos, de salud, seguridad y ambientales.
-¿Qué es un caso de prueba? Una situación específica diseñada para verificar una funcionalidad o forzar errores en el software.
-¿Qué subcaracterísticas componen la satisfacción del usuario en ISO 25010? Utilidad, confianza, placer y comodidad.
-¿Cuál es la diferencia entre verificación y evaluación en el testing? La verificación revisa la calidad del código y la evaluación analiza su comportamiento funcional.
-¿Qué son las convenciones de código? Reglas de estilo que incluyen el nombrado de variables, organización del fuente y uso de espacios.
-¿Qué indica la notación Camel Case? Es una regla donde se juntan palabras y todas, excepto la primera, inician con mayúscula.
-¿Cómo se vería un ejemplo de Camel Case? holaMundo o estaEsUnaVariable.
-¿Por qué no existe un modelo general único para medir la calidad del software? Porque la calidad depende de la interpretación, el punto de vista del usuario y el proyecto.
-¿Qué regulan las reglas de indentación? El uso consistente de espacios y tabuladores para mejorar la legibilidad del código.
-¿Qué lenguajes tienen convenciones de estilo definidas por sus creadores? Lenguajes como Java, C# y Kotlin tienen sus propias guías oficiales.
-¿Qué factores determinan la calidad del software para el usuario? Atributos específicos que dependen directamente de sus necesidades y contexto.
-¿Qué es el código limpio (Clean Code)? Una práctica fundamental que busca que el código sea fácil de leer y mantener.
-¿Cuál es el propósito de los comentarios según las convenciones? Explicar la lógica compleja siguiendo reglas de estilo para no ensuciar el código.
-¿Qué es la refactorización? Técnica para mejorar la estructura interna del código sin alterar su comportamiento externo, aumentando la calidad.
-¿En qué consiste el aprendizaje continuo para la calidad del software? En la actualización constante del desarrollador en nuevas prácticas y estándares.
-¿Qué es la construcción de software? La creación detallada de software mediante codificación, depuración e integración de componentes.
-¿Cuál es el objetivo final de la construcción? Transformar el diseño detallado en código ejecutable e integrar todo en un producto funcional.
-¿Menciona tres actividades clave en la fase de construcción? Codificación, manejo de dependencias y verificación de la calidad del código.
-¿Qué tecnologías son comunes para el desarrollo Front End? HTML, CSS, JavaScript y frameworks como React o Angular.
-¿Qué lenguajes se utilizan habitualmente en el Back End? Java, C# (.NET), PHP y Node.js.
-¿Qué bases de datos se usan frecuentemente en la construcción? SQL Server, Oracle y MySQL.
-¿Qué herramientas de desarrollo (IDEs) se mencionan en la construcción? Visual Studio y Eclipse.
-¿Qué es el manejo de dependencias? Actividad que asegura la correcta integración de librerías y componentes externos necesarios para el software.
-¿Qué sistemas operativos suelen utilizarse en los entornos de desarrollo? Windows y Linux.
-¿Hacia qué entornos deben orientarse los proyectos de software reales? Entornos económicos, sociales, políticos, éticos, de seguridad y salud.
+¿Cómo se fundamenta el control de procesos empírico en Scrum? [cite_start]Se basa en la transparencia, inspección y adaptación para tomar decisiones informadas por hechos reales [cite: 524]
+¿Qué impacto tiene la priorización basada en valor en el retorno de inversión del cliente? [cite_start]Asegura que las funcionalidades con mayor valor de negocio se entreguen primero, maximizando la utilidad temprana [cite: 524, 527]
+¿Cuál es la distinción operativa entre el Product Backlog y el Sprint Backlog? [cite_start]El Product Backlog es una lista viva de todo el proyecto; el Sprint Backlog es un compromiso fijo para un ciclo corto [cite: 525]
+¿Qué rol desempeña la auto-organización en la resolución de impedimentos técnicos? [cite_start]Facilita que el equipo tome decisiones propias y creativas, aumentando la eficiencia y el aprendizaje grupal [cite: 524, 529]
+¿En qué consiste el flujo iterativo de gestión de riesgos? [cite_start]Es un ciclo continuo de identificación, evaluación, priorización, mitigación y comunicación de amenazas [cite: 535]
+¿Por qué el Daily Standup se define como una actividad de inspección y adaptación? [cite_start]Permite revisar el progreso diario hacia la meta (inspección) y ajustar el plan de trabajo inmediato (adaptación) [cite: 526, 536]
+¿Cuál es el propósito diferenciador de la Revisión del Sprint frente a la Retrospectiva? [cite_start]La Revisión se enfoca en la validación del producto con el cliente; la Retrospectiva en la mejora del proceso del equipo [cite: 534, 536]
+¿Cómo influye el "Time-boxing" en la mitigación de la incertidumbre del proyecto? [cite_start]Limita el tiempo dedicado a actividades, forzando la toma de decisiones y manteniendo el enfoque en lo esencial [cite: 524]
+¿Quién posee la autoridad final para la aceptación de entregables en cada iteración? [cite_start]El Product Owner es el responsable exclusivo de aprobar o rechazar los entregables presentados [cite: 534]
+¿De qué manera la retroalimentación constante del cliente reduce el desperdicio en Scrum? [cite_start]Permite detectar desviaciones tempranas, evitando el desarrollo de características que no satisfacen al usuario [cite: 526, 536]
+¿Por qué el objetivo del testing es el descubrimiento de fallos y no la demostración de funcionalidad? [cite_start]Porque encontrar fallos es el único modo de evaluar la robustez y calidad real del código bajo condiciones adversas [cite: 494]
+¿Qué diferencia técnica existe entre validar el comportamiento (Caja Blanca) y los resultados (Caja Negra)? [cite_start]La Caja Blanca analiza la lógica interna y rutas del código; la Caja Negra se limita a comparar entradas con salidas [cite: 494]
+¿Cómo define la norma ISO 25010 la 'Efectividad' frente a la 'Eficiencia' en el uso? [cite_start]La Efectividad mide la precisión en el logro de metas; la Eficiencia mide el consumo de recursos para lograrlas [cite: 502]
+¿Qué implica la subcaracterística 'Freedom from risk' para la responsabilidad ética del ingeniero? [cite_start]Exige que el software sea capaz de proteger activos económicos, la salud humana y el medio ambiente [cite: 502]
+¿Cómo se relacionan la utilidad y la confianza con el atributo de Satisfacción del usuario? [cite_start]La satisfacción es la respuesta emocional del usuario ante un sistema que considera útil, fiable y cómodo [cite: 502]
+¿Por qué la ausencia de errores conocidos no equivale necesariamente a un software de alta calidad? [cite_start]Un sistema puede no tener errores obvios pero ser ineficiente, difícil de usar o no cumplir los objetivos del usuario [cite: 511]
+¿Cuál es la justificación para que no exista un modelo de calidad universalmente aplicable? [cite_start]Porque la calidad es un atributo subjetivo que varía según el contexto, el usuario final y las metas de cada proyecto [cite: 511]
+¿De qué forma las convenciones de código impactan directamente en la deuda técnica de un proyecto? [cite_start]Reducen la complejidad del código, facilitando el mantenimiento y evitando errores por falta de legibilidad [cite: 498, 512]
+¿En qué se diferencia la notación Camel Case de otras reglas de nombrado como Pascal Case? [cite_start]Camel Case inicia con minúscula (holaMundo), mientras Pascal Case inicia cada palabra con mayúscula (HolaMundo) [cite: 499]
+¿Cuál es el valor estratégico de la refactorización dentro del mantenimiento preventivo? [cite_start]Permite limpiar y optimizar el código existente sin cambiar su funcionalidad, mejorando la sostenibilidad a futuro [cite: 512]
+¿Qué papel juega el 'Aprendizaje Continuo' en la prevención de la obsolescencia de calidad? [cite_start]Asegura que el equipo adopte mejores prácticas modernas, manteniendo estándares de calidad competitivos [cite: 512]
+¿Cómo se define la Construcción de Software en el marco de la integración de componentes? [cite_start]Como la fase de creación detallada que incluye codificación, depuración e integración en un todo funcional [cite: 479, 480]
+¿Cuál es el objetivo de transformar el diseño detallado en código ejecutable verificado? [cite_start]Garantizar que la arquitectura teórica se traduzca en una aplicación operativa que satisfaga los requerimientos [cite: 479]
+¿Por qué el manejo de dependencias es crítico para la seguridad y estabilidad del sistema? [cite_start]Porque el uso de librerías externas introduce riesgos de incompatibilidad y vulnerabilidades que deben gestionarse [cite: 480]
+¿Qué importancia tienen los factores sociales y éticos en la implementación de requerimientos reales? [cite_start]Garantizan que el proyecto cumpla con normativas legales, sea accesible y respete el contexto cultural del usuario [cite: 478]
+¿Cuál es la distinción de responsabilidades entre el desarrollo Front End y Back End? [cite_start]El Front End gestiona la experiencia del usuario; el Back End gestiona la lógica, seguridad y almacenamiento [cite: 486]
+¿Cómo ayudan las herramientas de 'API Integration' a la escalabilidad de un producto de software? [cite_start]Permiten la comunicación fluida entre servicios distribuidos, facilitando el crecimiento modular del sistema [cite: 485]
+¿Qué actividades comprenden la verificación de la calidad del código durante la construcción? [cite_start]Incluyen la revisión de estándares, el análisis de buenas prácticas y la ejecución de pruebas unitarias [cite: 480]
+¿Cómo se integra la depuración (debugging) como un proceso sistemático de construcción? [cite_start]Se integra mediante la detección y corrección de errores lógicos o de ejecución durante toda la fase de codificación [cite: 480]
+¿Qué factores determinan la selección de metodologías 'Low Code' o 'Rapid' en el desarrollo móvil? [cite_start]Se basan en la necesidad de reducir el tiempo de salida al mercado (time-to-market) y la complejidad técnica [cite: 490]
